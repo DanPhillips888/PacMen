@@ -1,5 +1,7 @@
 # PacMen
 
+<img src="./images/pacman1.png" width="300">
+
 PacMen is a game which creates pacman characters that bounce around the screen. There is a button to add a character and a button to start the animation.
 
 How to Run: Copy the three files pacmen.js, index.html and the folder /images to the same folder on your harddrive. Then drag and drop the index.html file onto your web browser.
