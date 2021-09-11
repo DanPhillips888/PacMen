@@ -1,6 +1,6 @@
 # PacMen
 
-<img src="images/pacman1.png" width="150">
+<img src="./images/pacman1.png" width="150">
 
 PacMen is a game which creates pacman characters that bounce around the screen. There is a button to add a character and a button to start the animation.
 
